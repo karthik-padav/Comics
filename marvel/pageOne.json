@@ -1,26 +1,32 @@
 {
     "data":[{
         "id": 1,
-        "title":"asd",
-        "path": "asd",
+        "path": "/marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_1/data.json",
         "thumbnail": "https://raw.githubusercontent.com/karthik-padav/comics/master/marvel/images/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_1/Black Panther - World of Wakanda-000.jpeg"
     },
     {
         "id": 2,
-        "title":"asd",
-        "path": "asd",
+        "path": "/marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_2/data.json",
         "thumbnail": "https://raw.githubusercontent.com/karthik-padav/Comics/master/comics/Invincible_001_(2003-)(FromAnime)/images/Invincible%20001-000.jpg"
     },
     {
         "id": 3,
-        "title":"asd",
-        "path": "asd",
+        "path": "/marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_3/data.json",
         "thumbnail": "https://raw.githubusercontent.com/karthik-padav/Comics/master/comics/Invincible_001_(2003-)(FromAnime)/images/Invincible%20001-000.jpg"
     },
     {
         "id": 4,
-        "title":"asd",
-        "path": "asd",
+        "path": "/marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_4/data.json",
+        "thumbnail": "https://raw.githubusercontent.com/karthik-padav/Comics/master/comics/Invincible_001_(2003-)(FromAnime)/images/Invincible%20001-000.jpg"
+    },
+    {
+        "id": 5,
+        "path": "/marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_5/data.json",
+        "thumbnail": "https://raw.githubusercontent.com/karthik-padav/Comics/master/comics/Invincible_001_(2003-)(FromAnime)/images/Invincible%20001-000.jpg"
+    },
+    {
+        "id": 6,
+        "path": "/marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_6/data.json",
         "thumbnail": "https://raw.githubusercontent.com/karthik-padav/Comics/master/comics/Invincible_001_(2003-)(FromAnime)/images/Invincible%20001-000.jpg"
     }]
 }
