@@ -1,104 +1,103 @@
 {
     "title": "Black Panther: World of Wakanda (2017)",
-    "imageBaseUrl" : "",
     "series": "#1",
     "discription": "Wakanda! Home of the Black Panther, a proud and vibrant nation whose legends and mysteries run deep. Now, delve deep into Wakanda’s lore with a love story where tenderness is matched by brutality! You know them as the Midnight Angels, but for now they are just Ayo and Aneka — young women recruited to become Dora Milaje, an elite task force trained to protect the crown of Wakanda at all costs. But with their king shamed and their queen killed, Ayo and Aneka must take justice into their own hands! They’ve been officers. Rebels. Lovers. But can they be leaders? Plus: the return of former White Tiger, Kasper Cole! As Wakanda burns, Cole can only watch helplessly from halfway around the world. Will he find a new beginning — or meet a painful end?",
     "author": "Written by: Rembert Browne, Ta-Nehisi Coates, Roxane Gay, Yona Harvey Art by: Joe Bennett, Alitha Martinez, Afua Richardson Cover by: Afua Richardson",
     "images": [
     {
         "page": 1,
-        "url": "/1.jpeg"
+        "url": "1.jpeg"
     },
     {
         "page": 2,
-        "url": "/2.jpeg"
+        "url": "2.jpeg"
     },
     {
         "page": 3,
-        "url": "/3.jpeg"
+        "url": "3.jpeg"
     },
     {
         "page": 4,
-        "url": "/4.jpeg"
+        "url": "4.jpeg"
     },
     {
         "page": 5,
-        "url": "/5.jpeg"
+        "url": "5.jpeg"
     },
     {
         "page": 6,
-        "url": "/6.jpeg"
+        "url": "6.jpeg"
     },
     {
         "page": 7,
-        "url": "/7.jpeg"
+        "url": "7.jpeg"
     },
     {
         "page": 8,
-        "url": "/8.jpeg"
+        "url": "8.jpeg"
     },
     {
         "page": 9,
-        "url": "/9.jpeg"
+        "url": "9.jpeg"
     },
     {
         "page": 10,
-        "url": "/10.jpeg"
+        "url": "10.jpeg"
     },
     {
         "page": 11,
-        "url": "/11.jpeg"
+        "url": "11.jpeg"
     },
     {
         "page": 12,
-        "url": "/12.jpeg"
+        "url": "12.jpeg"
     },
     {
         "page": 13,
-        "url": "/13.jpeg"
+        "url": "13.jpeg"
     },
     {
         "page": 14,
-        "url": "/14.jpeg"
+        "url": "14.jpeg"
     },
     {
         "page": 15,
-        "url": "/15.jpeg"
+        "url": "15.jpeg"
     },
     {
         "page": 16,
-        "url": "/16.jpeg"
+        "url": "16.jpeg"
     },
     {
         "page": 17,
-        "url": "/17.jpeg"
+        "url": "17.jpeg"
     },
     {
         "page": 18,
-        "url": "/18.jpeg"
+        "url": "18.jpeg"
     },
     {
         "page": 19,
-        "url": "/19.jpeg"
+        "url": "19.jpeg"
     },
     {
         "page": 20,
-        "url": "/20.jpeg"
+        "url": "20.jpeg"
     },
     {
         "page": 21,
-        "url": "/21.jpeg"
+        "url": "21.jpeg"
     },
     {
         "page": 22,
-        "url": "/22.jpeg"
+        "url": "22.jpeg"
     },
     {
         "page": 23,
-        "url": "/23.jpeg"
+        "url": "23.jpeg"
     },
     {
         "page": 24,
-        "url": "/24.jpeg"
+        "url": "24.jpeg"
     }]
 }
