@@ -1,6 +1,8 @@
 {
-    "forceUpgrade": true,
+    "forceUpgrade": false,
     "latestVersion": "1.0.1",
     "recommendUpgrade": false,
+    "showAd": true,
+    "adId": "ca-app-pub-3940256099942544/1033173712",
     "Status": "Success"
 }
