@@ -1,6 +1,22 @@
 {
     "data": [
         {
+            "id": 16,
+            "path": "marvel/comics/Ant-Man_&_the_Wasp_004_(2018)/"
+        },
+        {
+            "id": 15,
+            "path": "marvel/comics/Ant-Man_&_the_Wasp_003_(2018)/"
+        },
+        {
+            "id": 14,
+            "path": "marvel/comics/Ant-Man_&_the_Wasp_002_(2018)/"
+        },
+        {
+            "id": 13,
+            "path": "marvel/comics/Ant-Man_&_the_Wasp_001_(2018)/"
+        },
+        {
             "id": 12,
             "path": "marvel/comics/Thor_003_(2018)_(Digital)_(Zone-Empire)/"
         },
