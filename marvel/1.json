@@ -1,196 +1,53 @@
 {
-    "data":[{
-        "id": 50,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_1/"
-    },
-    {
-        "id": 49,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_2/"
-    },
-    {
-        "id": 48,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_3/"
-    },
-    {
-        "id": 47,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_4/"
-    },
-    {
-        "id": 46,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_5/"
-    },
-    {
-        "id": 45,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_6/"
-    },{
-        "id": 44,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_1/"
-    },
-    {
-        "id": 43,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_2/"
-    },
-    {
-        "id": 42,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_3/"
-    },
-    {
-        "id": 41,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_4/"
-    },
-    {
-        "id": 40,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_5/"
-    },
-    {
-        "id": 39,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_6/"
-    },{
-        "id": 38,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_1/"
-    },
-    {
-        "id": 37,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_2/"
-    },
-    {
-        "id": 36,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_3/"
-    },
-    {
-        "id": 35,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_4/"
-    },
-    {
-        "id": 34,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_5/"
-    },
-    {
-        "id": 33,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_6/"
-    },{
-        "id": 32,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_1/"
-    },
-    {
-        "id": 31,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_2/"
-    },
-    {
-        "id": 30,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_3/"
-    },
-    {
-        "id": 29,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_4/"
-    },
-    {
-        "id": 28,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_5/"
-    },
-    {
-        "id": 27,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_6/"
-    },{
-        "id": 26,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_1/"
-    },
-    {
-        "id": 25,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_2/"
-    },
-    {
-        "id": 24,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_3/"
-    },
-    {
-        "id": 23,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_4/"
-    },
-    {
-        "id": 22,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_5/"
-    },
-    {
-        "id": 21,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_6/"
-    },{
-        "id": 20,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_1/"
-    },
-    {
-        "id": 19,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_2/"
-    },
-    {
-        "id": 18,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_3/"
-    },
-    {
-        "id": 17,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_4/"
-    },
-    {
-        "id": 16,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_5/"
-    },
-    {
-        "id": 15,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_6/"
-    },{
-        "id": 14,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_1/"
-    },
-    {
-        "id": 13,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_2/"
-    },
-    {
-        "id": 12,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_3/"
-    },
-    {
-        "id": 11,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_4/"
-    },
-    {
-        "id": 10,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_5/"
-    },
-    {
-        "id": 9,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_6/"
-    },{
-        "id": 8,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_1/"
-    },
-    {
-        "id": 7,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_2/"
-    },
-    {
-        "id": 6,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_6/"
-    },
-    {
-        "id": 5,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_5/"
-    },
-    {
-        "id": 4,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_4/"
-    },
-    {
-        "id": 3,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_3/"
-    },
-    {
-        "id": 2,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_2/"
-    },
-    {
-        "id": 1,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_1/"
-    }],
+    "data": [
+        {
+            "id": 12,
+            "path": "marvel/comics/Thor_003_(2018)_(Digital)_(Zone-Empire)/"
+        },
+        {
+            "id": 11,
+            "path": "marvel/comics/Thor_002_(2018)_(Digital)_(Zone-Empire)/"
+        },
+        {
+            "id": 10,
+            "path": "marvel/comics/Thor_001_(2018)_(digital)_(Glorith-HD)/"
+        },
+        {
+            "id": 9,
+            "path": "marvel/comics/Ant-Man_&_Wasp_03_(of_03)_(2011)/"
+        },
+        {
+            "id": 8,
+            "path": "marvel/comics/Ant-Man_&_Wasp_02_(of_03)_(2011)/"
+        },
+        {
+            "id": 7,
+            "path": "marvel/comics/Ant-Man_&_Wasp_01_(of_03)_(2011)/"
+        },
+        {
+            "id": 6,
+            "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_6/"
+        },
+        {
+            "id": 5,
+            "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_5/"
+        },
+        {
+            "id": 4,
+            "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_4/"
+        },
+        {
+            "id": 3,
+            "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_3/"
+        },
+        {
+            "id": 2,
+            "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_2/"
+        },
+        {
+            "id": 1,
+            "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_1/"
+        }
+    ],
     "Status": "Success"
 }
